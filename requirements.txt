@@ -1,0 +1,2 @@
+dotevn==0.0.5
+discord.py==1.6.*
