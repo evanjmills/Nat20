@@ -117,3 +117,9 @@ fabric.properties
 
 ### .env ####
 .env
+
+**/.DS_Store
+
+### js ###
+**/node_modules
+**/.serverless
